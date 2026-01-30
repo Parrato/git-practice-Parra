@@ -1,5 +1,5 @@
 // hola mundo.cpp
-#include <iostream>
+#include <iostream> //Libreria C++
 using namespace std;
 
 int main() {
