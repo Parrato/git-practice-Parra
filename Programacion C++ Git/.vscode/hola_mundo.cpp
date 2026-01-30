@@ -1,20 +1,12 @@
 // hola mundo.cpp
 #include <iostream>
-#include <string>
 using namespace std;
 
-int main () {
-
-    std::string nombre;
-
-    std::cout << "¡Hola Mundo desde Git! Cual es mi nombre?" << endl;
-
-    std::cin >> nombre;
-
-
-    std::cout << "Mi nombre es: " << nombre << std::endl;
-
-
-
+int main() {
+    cout << "¡Hola Mundo desde Git!" << endl;
+    cout << "Mi nombre es: Arturo Parra" << endl;
+    cout << "Estoy aprendiendo Git en Programación II" << endl;
+    cout << "Este es mi segundo commit!" << endl;
     return 0;
+
 }
